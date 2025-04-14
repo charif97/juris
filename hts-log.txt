@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 11 Apr 2025 14:41:53 at https://juridia.ma/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" https://juridia.ma/ -O1 "C:\Mes Sites Web\juridia" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:42:58	Error: 	"Not Allowed" (405) at link https://juridia.ma/xmlrpc.php (from https://juridia.ma/)
+14:43:07	Error: 	"Not Found" (404) at link https://juridia.ma/wp-content/plugins/elementor-pro/assets/css/widget-blockquote.min.css?ver=3.25.0 (from https://juridia.ma/)
+14:43:07	Error: 	"Not Found" (404) at link https://juridia.ma/wp-content/plugins/elementor-pro/assets/css/widget-mega-menu.min.css?ver=3.26.2 (from https://juridia.ma/)
+14:43:07	Error: 	"Not Found" (404) at link https://juridia.ma/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.26.0 (from https://juridia.ma/)
+14:43:25	Error: 	"Not Allowed" (405) at link https://juridia.ma/xmlrpc.php?rsd (from https://juridia.ma/)
+14:43:25	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://juridia.ma/)
+14:43:35	Warning: 	Moved Permanently for https://juridia.ma/?p=532
+14:43:35	Warning: 	File has moved from https://juridia.ma/?p=532 to https://juridia.ma/condition-generales-de-vente-et-utilisation/
+14:43:35	Warning: 	Moved Permanently for https://juridia.ma/?p=3
+14:43:35	Warning: 	File has moved from https://juridia.ma/?p=3 to https://juridia.ma/politiques-de-confidentialite/
+14:43:35	Warning: 	Moved Permanently for https://juridia.ma/?p=548
+14:43:35	Warning: 	File has moved from https://juridia.ma/?p=548 to https://juridia.ma/cookies/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 42 seconds : 121 links scanned, 111 files written (45677346 bytes overall) [44532683 bytes received at 436594 bytes/sec], 1568007 bytes transferred using HTTP compression in 50 files, ratio 21%
+(6 errors, 6 warnings, 0 messages)
